@@ -2,22 +2,22 @@
 
 :root {
   --font-size: 16px;
-  --background: #f9f8f6;
+  --background: #ffffff;
   --foreground: oklch(0.145 0 0);
-  --card: #faf8f1;
+  --card: #ffffff;
   --card-foreground: oklch(0.145 0 0);
   --popover: oklch(1 0 0);
   --popover-foreground: oklch(0.145 0 0);
   --primary: #225d9c;
-  --primary-foreground: #f5f5f0;
+  --primary-foreground: #ffffff;
   --secondary: #288f8a;
-  --secondary-foreground: #f5f5f0;
+  --secondary-foreground: #ffffff;
   --muted: #ececf0;
   --muted-foreground: #717182;
   --accent: #e8c02e;
   --accent-foreground: #030213;
   --destructive: #d4183d;
-  --destructive-foreground: #f5f5f0;
+  --destructive-foreground: #ffffff;
   --border: rgba(0, 0, 0, 0.1);
   --input: transparent;
   --input-background: #f3f3f5;
@@ -34,7 +34,7 @@
   --sidebar: oklch(0.985 0 0);
   --sidebar-foreground: oklch(0.145 0 0);
   --sidebar-primary: #225d9c;
-  --sidebar-primary-foreground: #f9f8f6;
+  --sidebar-primary-foreground: #ffffff;
   --sidebar-accent: oklch(0.97 0 0);
   --sidebar-accent-foreground: oklch(0.205 0 0);
   --sidebar-border: oklch(0.922 0 0);
