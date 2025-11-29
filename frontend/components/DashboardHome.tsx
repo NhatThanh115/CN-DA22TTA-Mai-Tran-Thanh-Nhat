@@ -153,7 +153,7 @@ export function DashboardHome({ user, onNavigate }: DashboardHomeProps) {
           </div>
         </Card>
       </div>
-
+      
       {/* Continue Learning Card */}
       <Card className="bg-gradient-to-br from-[#5b86e5] via-[#7c6ee0] to-[#a55eea] text-white border-2 border-purple-600 overflow-hidden shadow-lg">
         <div className="p-6 md:p-8 relative">
