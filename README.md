@@ -52,7 +52,7 @@ docker-compose down -v
 
 **Ports:**
 
-- Frontend: http://localhost:5173
+- Frontend: http://localhost:80
 - Backend: http://localhost:8000
 - Database: localhost:1433
 
